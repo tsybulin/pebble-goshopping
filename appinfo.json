@@ -1,0 +1,29 @@
+{
+  "uuid": "11a7da6a-11ac-4804-9acc-4330b3f62bdf",
+  "shortName": "GoShop",
+  "longName": "go Shopping!",
+  "companyName": "tsybulin@me.com",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+            {
+                "name": "MNU_IMG",
+                "file": "images/mnu_img.png",
+                "menuIcon": true,
+                "type": "png"
+            },
+            {
+                "file": "images/buttons.png",
+                "name": "IMG_BUTTONS",
+                "type": "png-trans"
+            }
+    ]
+  }
+}
