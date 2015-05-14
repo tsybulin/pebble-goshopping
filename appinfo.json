@@ -3,8 +3,8 @@
   "shortName": "GoShop",
   "longName": "go Shopping!",
   "companyName": "tsybulin@me.com",
-  "versionCode": 1,
-  "versionLabel": "1.0",
+  "versionCode": 2,
+  "versionLabel": "1.1",
   "watchapp": {
     "watchface": false
   },
@@ -20,9 +20,29 @@
                 "type": "png"
             },
             {
-                "file": "images/buttons.png",
-                "name": "IMG_BUTTONS",
-                "type": "png-trans"
+                "file": "images/btn_back.png",
+                "name": "IMG_BTN_BACK",
+                "type": "png"
+            },
+            {
+                "file": "images/btn_forward.png",
+                "name": "IMG_BTN_FORWARD",
+                "type": "png"
+            },
+            {
+                "file": "images/btn_mark.png",
+                "name": "IMG_BTN_MARK",
+                "type": "png"
+            },
+            {
+                "file": "images/unshopped.png",
+                "name": "IMG_UNSHOPPED",
+                "type": "png"
+            },
+            {
+                "file": "images/shopped.png",
+                "name": "IMG_SHOPPED",
+                "type": "png"
             }
     ]
   }
